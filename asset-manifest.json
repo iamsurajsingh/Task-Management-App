@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/taskmanagement/static/css/main.7001ca5a.chunk.css",
+    "main.js": "/taskmanagement/static/js/main.9da19757.chunk.js",
+    "main.js.map": "/taskmanagement/static/js/main.9da19757.chunk.js.map",
+    "runtime-main.js": "/taskmanagement/static/js/runtime-main.426e5f97.js",
+    "runtime-main.js.map": "/taskmanagement/static/js/runtime-main.426e5f97.js.map",
+    "static/js/2.b91f7918.chunk.js": "/taskmanagement/static/js/2.b91f7918.chunk.js",
+    "static/js/2.b91f7918.chunk.js.map": "/taskmanagement/static/js/2.b91f7918.chunk.js.map",
+    "index.html": "/taskmanagement/index.html",
+    "static/css/main.7001ca5a.chunk.css.map": "/taskmanagement/static/css/main.7001ca5a.chunk.css.map",
+    "static/js/2.b91f7918.chunk.js.LICENSE.txt": "/taskmanagement/static/js/2.b91f7918.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/taskmanagement/static/media/checkIcon.7b050407.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.426e5f97.js",
+    "static/js/2.b91f7918.chunk.js",
+    "static/css/main.7001ca5a.chunk.css",
+    "static/js/main.9da19757.chunk.js"
+  ]
+}
